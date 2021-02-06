@@ -1,0 +1,14 @@
+{
+  "name": "invoicemasterv1",
+  "version": "1.0.0",
+  "description": "Great proyect !",
+  "author": "Emmanuel Rangel",
+  "license": "MIT",
+  "scripts": {
+    "server": "nodemon ./Server/config.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.19.2",
+    "nodemon": "^2.0.7"
+  }
+}
